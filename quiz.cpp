@@ -92,7 +92,9 @@ int main() {
         std::cout << "Niepoprawna odpowiedź";
     }
 
-   
+    while (true) {
+
+    }
 
     return 0;
 }
