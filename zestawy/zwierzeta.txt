@@ -1,0 +1,6 @@
+kot;cat
+pies;dog
+świnia;pig
+krowa;cow
+koń;horse
+
