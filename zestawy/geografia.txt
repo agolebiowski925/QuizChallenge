@@ -1,0 +1,8 @@
+Stolica Francji;Paryż
+Stolica Japonii;Tokio
+Najdłuższa rzeka świata;Nil
+Najwyższa góra świata;Mount Everest
+Stolica Australii;Canberra
+Największy ocean;Spokojny
+Stolica Brazylii;Brasilia
+Stolica Polski;Warszawa

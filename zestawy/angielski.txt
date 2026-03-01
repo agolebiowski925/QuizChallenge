@@ -1,0 +1,10 @@
+Pies;Dog
+Kot;Cat
+Dom;House
+Szkoła;School
+Woda;Water
+Słońce;Sun
+Księżyc;Moon
+Drzewo;Tree
+Samochód;Car
+Książka;Book
