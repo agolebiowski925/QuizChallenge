@@ -1,5 +1,0 @@
-pies;dog
-kot;cat
-świnia;pig
-koń;horse
-
